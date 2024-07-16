@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @metricaez
-- 👀 I’m interested in web3 business development and building applications for blockchain. 
-- 💞️ I’m looking to collaborate on web3 related projects, here to build!
+
 
 
 <!---
